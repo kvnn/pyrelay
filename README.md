@@ -73,7 +73,7 @@ cd pyrelay
 Install dependencies, include dev dependencies
 
 ```bash
-pip install -r requirements.txt -r requirements-dev.txt -r requirements-test.txt
+pip install -r requirements.txt -r requirements-dev.txt -r requirements-tests.txt
 ```
 
 ### Running tests
